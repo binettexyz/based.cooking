@@ -7,7 +7,7 @@ author: Jonathan Binette
 
 Crêpes mince légèrement sucrée.
 
-- 🍽️ Quantité: ~ 6 crêpes
+- Quantité: ~ 6 crêpes
 
 ## Ingredients
 
