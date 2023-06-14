@@ -8,7 +8,7 @@ Pâté chinois style Shepherd’s Pie.
 
 ## Ingredients
 
-### Patate pillé
+### Purée de pommes de terre
 
 - Patate (2kg)
 - Lait (2/3 tasse)
