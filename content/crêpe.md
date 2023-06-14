@@ -19,7 +19,7 @@ Crêpes mince légèrement sucrée.
 
 ## Directions
 
-1. Dans l'ordre, mélanger les ingredients dans un bol jusqu'à ce que les mottons disparaissent.
-2. Préchauffer la poêle à 6.
+1. Dans l'ordre, mélanger les ingredients dans un bol jusqu'à homogénéité.
+2. Préchauffer la poêle à moyen-élevé.
 3. Ajouter un peu de beurre, verser le mélange à crêpe à l'aide d'une louche dans la poêle.
 4. Cuire jusqu'à ce qu'elle soit dorée.
