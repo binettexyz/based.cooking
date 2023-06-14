@@ -7,8 +7,8 @@ author: Jonathan Binette
 
 Poulet à l'érable servit avec des légumes cuit à la vapeur et du riz blanc.
 
-- 🍳 Temps de cuisson: 25-30 min
-- 🍽️ Portions: 2
+- Temps de cuisson: 25-30 min
+- Portions: 2
 
 ## Ingredients
 
