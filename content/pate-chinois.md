@@ -1,5 +1,7 @@
 # Pâté Chinois
 
+Pâté chinois style Shepherd’s Pie.
+
 - Temps de prép: 25 min
 - Temps de cuisson: 30 min
 - Portions: 10

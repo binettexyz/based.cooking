@@ -1,11 +1,6 @@
----
-title: "Riz frit au poulet"
-tags: ['poulet', 'riz']
-date: 2023-06-14
-author: Jonathan Binette
----
+# Riz frit au poulet
 
-Riz au poulet cuit avec des oeufs et légumes.
+Riz frit protéiné et faible en calorie.
 
 - Temps de cuisson: 15-20 min
 - Portions: 5

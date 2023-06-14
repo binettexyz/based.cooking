@@ -1,9 +1,4 @@
----
-title: "Crêpe"
-tags: ['déjeuner', 'crêpe']
-date: 2023-06-14
-author: Jonathan Binette
----
+# Crêpes
 
 Crêpes mince légèrement sucrée.
 

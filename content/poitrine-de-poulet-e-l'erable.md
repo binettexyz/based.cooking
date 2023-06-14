@@ -1,9 +1,4 @@
----
-title: "Poitrine de poulet à l'érable"
-tags: ['poulet', 'four', 'érable']
-date: 2023-06-14
-author: Jonathan Binette
----
+# Poitrine de poulet a l'érable
 
 Poulet à l'érable servit avec des légumes cuit à la vapeur et du riz blanc.
 
