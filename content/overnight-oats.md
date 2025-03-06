@@ -6,9 +6,9 @@
 
 - 1 cup quick oats
 - 1 cup milk or plant-based beverage
-- 1 mashed banana
-- ½ cup blueberries (fresh or frozen)
-- 2 tbsp maple syrup or honey (optional)
+- ½ mashed banana
+- ¼ cup blueberries (fresh or frozen)
+- 1 tbsp maple syrup or honey (optional)
 - 1 tsp vanilla extract (optional)
 
 ## Preparation
